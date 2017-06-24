@@ -1,0 +1,2 @@
+# mathematical-morphology
+There are multiple ways to do segmentation, mathematical morphology is a geometric approach for extracting image components that are useful in the representation and description of region shape. In this exploration, we illustrate several basic concepts in mathematical morphology, such as erosion, dilation, opening, and closing. And we will examine how to apply those simple operators to perform segmentation on medical images.
